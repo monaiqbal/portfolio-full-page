@@ -1,0 +1,203 @@
+@media (min-width: 993px) and (max-width:1200px){
+    .one {
+        width: 335px;
+    }
+
+    .item {
+        width: 255px;
+    }
+}
+
+
+
+
+
+@media (min-width: 769px) and (max-width:992px){
+    .navbar-light .navbar-toggler {
+       
+        z-index: 1;
+    }
+    .navbar-nav {
+      
+        text-align: center;
+    }
+    .image-man {
+        position: absolute;
+        left: 34%;
+    width: 31%;
+    top: 70%;
+    }
+    .heading h1{
+        margin-left: 35px;
+    }
+    .text h4 {
+        font-size: 16px;
+    }
+    .part-one {
+     
+        margin-left: -204px;
+        margin-right: 152px;
+    }
+    .text p {
+        font-size: 14px;
+    }
+    .description h6 {
+        
+        margin-right: 0px; 
+        font-size: 14px;
+    }
+    .margin {
+        margin-left: 78px;
+    }
+    .one {
+        width: 215px;
+    }
+    .item {
+        width: 155px;
+    }
+    .story-one h4 {
+        color: #f39c12;
+        font-size: 15px;
+    }
+    .story-one p {
+       
+        font-size: 14px;
+        padding-right: 0px;
+    }
+    .btn-learn{
+        padding: 2px 3px;
+    }
+    .image-lap {
+        position: absolute;
+        left: 0%;
+        top: 22%;
+        width: 39%;
+    }
+   
+
+}
+
+@media (min-width: 577px) and (max-width:768px){
+    .navbar-light .navbar-toggler {
+       
+        z-index: 1;
+    }
+    .navbar-nav {
+      
+        text-align: center;
+    }
+    .heading {
+        text-align: center;
+    }
+    .button {
+        text-align: center;
+       
+         margin-right: 0px; 
+    }
+    .btn-get {
+        padding: 8px 8px;
+    }
+    .btn-my {
+        padding: 8px 8px;
+    }
+    .image-man {
+        width: 32%;
+        top: 20%;
+        left: 33%;
+    }
+    .icon-face {
+  
+        margin-left: 104px;
+    }
+    .one {
+        width: 250px;
+    }
+    .item{
+        margin-bottom: 20px;
+        width: 250px;
+    }
+    .margin {
+        margin-left: 20px;
+    }
+    .camera{
+        margin-bottom: 20px;
+     }
+     .image-lap {
+        display: none;
+     }
+     .hand{
+        margin-bottom: 20px;
+      }
+}
+
+
+@media (min-width: 0px) and (max-width:576px) { 
+
+    .navbar-light .navbar-toggler {
+       
+        z-index: 1;
+    }
+    .navbar-nav {
+      
+        text-align: center;
+    }
+    .heading {
+        text-align: center;
+    }
+    .button {
+        text-align: center;
+       
+         margin-right: 0px; 
+    }
+    .btn-get {
+        padding: 8px 8px;
+    }
+    .btn-my {
+        padding: 8px 8px;
+    }
+    .image-man {
+       
+        width: 30%;
+        top: 90%;
+        left:30%;
+    }
+    .camera{
+       margin-bottom: 20px;
+       margin-left: 40px;
+    }
+    .description h6 {
+        
+        margin-right: 0px; 
+        font-size: 14px;
+    }
+    .margin {
+        margin-left: 20px;
+    }
+    .one {
+        width: 250px;
+    }
+    .item{
+        margin-bottom: 20px;
+        width: 250px;
+    }
+    .hand{
+        margin-bottom: 20px;
+    }
+    
+    .image-lap {
+       display: none;
+    }
+    .office{
+        font-size: 14px;
+    }
+    .icon-face {
+  
+        margin-left: 104px;
+    }
+    .ma {
+      margin-left: 0px;
+    }
+    .heading h1{
+        margin-left: 0px;
+    }
+}
